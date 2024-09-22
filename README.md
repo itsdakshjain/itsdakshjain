@@ -16,7 +16,7 @@ On average, people will spend about 10 years of their lives watching TV. Imagine
 
 ## 🚀 Projects
 
-[![Nova](https://img.shields.io/badge/Nova-blue?style=flat&logo=appveyor&logoColor=white&labelColor=007bff&color=007bff&longCache=true)]([(https://github.com/itsdakshjain/Virtual-Assistant)]) - A voice-activated virtual assistant with functionalities like music playback and weather updates.
+[![Nova](https://img.shields.io/badge/Nova-blue?style=flat&logo=appveyor&logoColor=white&labelColor=007bff&color=007bff&longCache=true)](https://github.com/itsdakshjain/Virtual-Assistant) - A voice-activated virtual assistant with functionalities like music playback and weather updates.
 
 [![Data Science Libraries](https://img.shields.io/badge/Data%20Science%20Libraries-green?style=flat&logo=appveyor&logoColor=white&labelColor=28a745&color=28a745&longCache=true)](https://github.com/itsdakshjain/Python-Data-Science-Libraries) - Projects showcasing skills in Python data science libraries like NumPy and Pandas.
 
