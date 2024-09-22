@@ -13,4 +13,7 @@
 🐱 **My GitHub Stats:**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsdakshjain&show_icons=true&theme=radical)
 
+🐱 **Top Languages Used:**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdakshjain&layout=compact&theme=radical)
+
 ⚡️ Stay curious and keep learning! ⚡️
