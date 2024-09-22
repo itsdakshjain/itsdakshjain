@@ -16,13 +16,15 @@ On average, people will spend about 10 years of their lives watching TV. Imagine
 
 ## 🚀 Projects
 
-[![Nova](https://img.shields.io/badge/Nova-blue?style=flat&logo=appveyor&logoColor=white&labelColor=007bff&color=007bff&longCache=true)](https://github.com/itsdakshjain/Virtual-Assistant) - A voice-activated virtual assistant with functionalities like music playback and weather updates.
+[![Nova](https://img.shields.io/badge/Nova-007bff?style=for-the-badge&logoColor=white)](https://github.com/itsdakshjain/Virtual-Assistant) - A voice-activated virtual assistant with functionalities like music playback and weather updates.
 
-[![Data Science Libraries](https://img.shields.io/badge/Data%20Science%20Libraries-green?style=flat&logo=appveyor&logoColor=white&labelColor=28a745&color=28a745&longCache=true)](https://github.com/itsdakshjain/Python-Data-Science-Libraries) - Projects showcasing skills in Python data science libraries like NumPy and Pandas.
+[![Data Science Libraries](https://img.shields.io/badge/Data%20Science%20Libraries-28a745?style=for-the-badge&logoColor=white)](https://github.com/itsdakshjain/Python-Data-Science-Libraries) - Projects showcasing skills in Python data science libraries like NumPy and Pandas.
 
-[![Data Science Projects](https://img.shields.io/badge/Data%20Science%20Projects-green?style=flat&logo=appveyor)](link-to-your-data-science-repo to be upload) - A collection of projects showcasing data analysis and visualization skills.
+[![Data Science Projects](https://img.shields.io/badge/Data%20Science%20Projects-007bff?style=for-the-badge&logoColor=white)](link-to-your-data-science-repo) - A collection of projects showcasing data analysis and visualization skills (coming soon).
 
-[![SQL Projects](https://img.shields.io/badge/SQL%20Projects-orange?style=flat&logo=appveyor)](link-to-your-sql-repo to be upload) - Projects focused on SQL queries and database management.
+[![SQL Projects](https://img.shields.io/badge/SQL%20Projects-fd7e14?style=for-the-badge&logoColor=white)](link-to-your-sql-repo) - Projects focused on SQL queries and database management (coming soon).
+
+
 
 
 
