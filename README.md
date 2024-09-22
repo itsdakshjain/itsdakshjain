@@ -14,6 +14,14 @@ On average, people will spend about 10 years of their lives watching TV. Imagine
 ## 🐱 My GitHub Stats: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        🐱 Top Languages Used:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsdakshjain&show_icons=true&theme=radical)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdakshjain&layout=compact&theme=radical)
 
+## 🚀 Projects
+
+[![Nova](https://img.shields.io/badge/Nova-blue?style=flat&logo=appveyor)](link-to-your-nova-repo) - A voice-activated virtual assistant with functionalities like music playback and weather updates.
+[![Data Science Projects](https://img.shields.io/badge/Data%20Science%20Projects-green?style=flat&logo=appveyor)](link-to-your-data-science-repo) - A collection of projects showcasing data analysis and visualization skills.
+[![SQL Projects](https://img.shields.io/badge/SQL%20Projects-orange?style=flat&logo=appveyor)](link-to-your-sql-repo) - Projects focused on SQL queries and database management.
+
+
+
 ## ⚡️ Stay curious and keep learning! ⚡️
 
 
