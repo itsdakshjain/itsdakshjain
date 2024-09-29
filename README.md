@@ -1,6 +1,6 @@
 # Hi there, I'm Daksh Jain! 👋
 
-[Portfolio](https://itsdakshjain.github.io/Portfolio-Website/#) | [LinkedIn](https://www.linkedin.com/in/daksh-jain-6b31772b9) | [GitHub](https://github.com/itsdakshjain)
+## [Portfolio](https://itsdakshjain.github.io/Portfolio-Website/#) | [LinkedIn](https://www.linkedin.com/in/daksh-jain-6b31772b9) | [GitHub](https://github.com/itsdakshjain)
 
 ## 🤵 About Me:
 - 🎓 I'm a Data Science enthusiast currently pursuing my Bachelor's in Engineering.
@@ -15,6 +15,8 @@ On average, people will spend about 10 years of their lives watching TV. Imagine
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsdakshjain&show_icons=true&theme=radical)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdakshjain&layout=compact&theme=radical)
 
 ## 🚀 Projects
+
+[![Portfolio-Website](https://img.shields.io/badge/Portfolio%20Website-fd7e14?style=for-the-badge&logoColor=white)](https://github.com/itsdakshjain/Portfolio-Website) - Showcasing my skills, projects, and experiences as a budding developer .
 
 [![Nova](https://img.shields.io/badge/Nova-007bff?style=for-the-badge&logoColor=white)](https://github.com/itsdakshjain/Virtual-Assistant) - A voice-activated virtual assistant with functionalities like music playback and weather updates.
 
