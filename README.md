@@ -33,3 +33,15 @@ On average, people will spend about 10 years of their lives watching TV. Imagine
 ## ⚡️ Stay curious and keep learning! ⚡️
 
 
+<img src="https://github.com/user-attachments/assets/ac95e055-31df-435d-8600-62a5f50123e2" alt="Image 1" width="100" />
+<img src="https://github.com/user-attachments/assets/7373c117-ca7c-4df2-b1f9-3683054c3c46" alt="Image 2" width="100" />
+<img src="https://github.com/user-attachments/assets/9bf73f65-cfc7-4397-a55e-5924dc0ee248" alt="Image 3" width="100" />
+<img src="https://github.com/user-attachments/assets/4520083e-4d2b-47c3-8f2b-f2799f0a57e8" alt="Image 3" width="100" />
+<img src="https://github.com/user-attachments/assets/ed71eacc-6cb5-406f-a75b-4907265add3d" alt="Image 3" width="100" />
+<img src="https://github.com/user-attachments/assets/685c5457-4ecf-4c37-acf4-fcbb3adaa48e" alt="Image 3" width="100" />
+
+
+
+
+
+
