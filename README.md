@@ -20,7 +20,7 @@ On average, people will spend about 10 years of their lives watching TV. Imagine
 
 [![Nova](https://img.shields.io/badge/Nova-007bff?style=for-the-badge&logoColor=white)](https://github.com/itsdakshjain/Virtual-Assistant) - A voice-activated virtual assistant with functionalities like music playback and weather updates.
 
-[![Data Science Libraries](https://img.shields.io/badge/Data%20Science%20Libraries-28a745?style=for-the-badge&logoColor=white)](https://github.com/itsdakshjain/Python-Data-Science-Libraries) - Projects showcasing skills in Python data science libraries like NumPy and Pandas.
+[![Data Science Libraries](https://img.shields.io/badge/Data%20Science%20Libraries-28a745?style=for-the-badge&logoColor=white)](https://github.com/itsdakshjain/Python-Data-Science-Libraries) - Showcasing skills in Python data science libraries like NumPy and Pandas.
 
 [![Data Science Projects](https://img.shields.io/badge/Data%20Science%20Projects-007bff?style=for-the-badge&logoColor=white)](link-to-your-data-science-repo) - A collection of projects showcasing data analysis and visualization skills (coming soon).
 
