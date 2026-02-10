@@ -10,6 +10,8 @@
 
 ## 🚀 Projects
 
+[![Recommendation-System](https://img.shields.io/badge/Recommendation%20System-FastAPI%20%26%20Streamlit-007bff?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=333333)](https://itsdakshjain-movie-recommendation-system.streamlit.app/) - A full-stack AI movie engine with a decoupled FastAPI backend.
+
 [![Churn-Prediction](https://img.shields.io/badge/Churn%20Prediction-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=333333)](https://itsdakshjain-customer-churn-prediction.streamlit.app/) - An ML system predicting customer churn with a live interactive dashboard.
 
 [![Smartphone-EDA](https://img.shields.io/badge/Smartphone%20EDA-Jupyter-007bff?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=333333)](https://github.com/itsdakshjain/Smartphone-Data-Cleaning-and-EDA) - Data cleaning, bivariate and univariate analysis of smartphone specifications.
