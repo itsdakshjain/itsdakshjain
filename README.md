@@ -1,6 +1,6 @@
 # Hi there, I'm Daksh Jain! 👋
 
-## [Portfolio](https://itsdakshjain.github.io/Portfolio-Website/) | [LinkedIn](https://www.linkedin.com/in/daksh-jain-6b31772b9) | [GitHub](https://github.com/itsdakshjain)
+## [Portfolio](https://itsdakshjain.github.io/Portfolio-Website/) | [LinkedIn](https://www.linkedin.com/in/itsdakshjain/) | [GitHub](https://github.com/itsdakshjain)
 
 ## 🤵 About Me:
 - 🎓 **B.Tech Student** and Data Science enthusiast.
