@@ -8,6 +8,15 @@
 - 🛠️ Currently working at the **Infosys Springboard** Intersnhip.
 - 💻 Skilled in Python, SQL, and various Data Science libraries.
 
+---
+
+### 📈 GitHub Stats
+
+![Daksh Jain's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/itsdakshjain?theme=tokyonight)
+
+
+---
+
 ## 🚀 Projects
 
 [![Recommendation-System](https://img.shields.io/badge/Recommendation%20System-FastAPI%20%26%20Streamlit-007bff?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=333333)](https://itsdakshjain-movie-recommendation-system.streamlit.app/) - A full-stack AI movie engine with a decoupled FastAPI backend.
