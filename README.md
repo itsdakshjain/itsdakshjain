@@ -7,15 +7,21 @@
 - 🚀 Exploring End-to-End Machine Learning and Data Analysis.
 - 🛠️ Currently working at the **Infosys Springboard** Intersnhip.
 - 💻 Skilled in Python, SQL, and various Data Science libraries.
+## 📈 GitHub Stats
 
----
+[![Daksh Jain's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/itsdakshjain?theme=dracula&rank=true)](https://github.com/itsdakshjain)
 
-### 📈 GitHub Stats
+## 📊 Activity Graph 
 
-![Daksh Jain's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/itsdakshjain?theme=tokyonight)
+[![Daksh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsdakshjain&theme=dracula&area=true&hide_border=true)](https://github.com/itsdakshjain)
 
+## 📈 GitHub Stats
 
----
+[![Daksh Jain's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/itsdakshjain?theme=tokyonight&rank=true)](https://github.com/itsdakshjain)
+
+## 📊 Activity Graph 
+
+[![Daksh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsdakshjain&theme=tokyo-night&area=true&hide_border=true)](https://github.com/itsdakshjain)
 
 ## 🚀 Projects
 
