@@ -1,6 +1,17 @@
-# Hi there, I'm Daksh Jain! 👋
+# 👨‍💻 Daksh Jain | Data Science & ML
 
-## [Portfolio](https://itsdakshjain.github.io/Portfolio-Website/) | [LinkedIn](https://www.linkedin.com/in/itsdakshjain/) | [GitHub](https://github.com/itsdakshjain)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=f75c7e&center=true&vCenter=true&width=550&lines=Hi,+I'm+Daksh+Jain!+👋;Aspiring+Data+Scientist;ML+Intern+@+Infosys;B.Tech+Pre-final+Year" alt="Typing SVG" />
+  
+ <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /> 
+ -->
+
+  <p>
+    <a href="https://itsdakshjain.github.io/Portfolio-Website/"><b>🌐 Portfolio</b></a> • 
+    <a href="https://www.linkedin.com/in/itsdakshjain/"><b>👔 LinkedIn</b></a> • 
+    <a href="https://github.com/itsdakshjain"><b>🐙 GitHub</b></a>
+  </p>
+</div>
 
 ## 🤵 About Me:
 - 🎓 **B.Tech Student** and Data Science enthusiast.
