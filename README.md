@@ -1,5 +1,7 @@
+ <!-- 
 # 👨‍💻 Daksh Jain | Data Science & ML
-
+ -->
+ 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=f75c7e&center=true&vCenter=true&width=550&lines=Hi,+I'm+Daksh+Jain!+👋;Aspiring+Data+Scientist;ML+Intern+@+Infosys;B.Tech+Pre-final+Year" alt="Typing SVG" />
   
