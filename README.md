@@ -13,18 +13,44 @@
   </p>
 </div>
 
+
+
+<table border="0">
+  <tr>
+    <td width="45%" valign="top">
+      <h2>🤵 About Me:</h2>
+      <ul>
+        <li>🎓 <b>B.Tech Student</b> and Data Science enthusiast.</li>
+        <li>🚀 Exploring End-to-End Machine Learning.</li>
+        <li>🛠️ Currently at <b>Infosys Springboard</b>.</li>
+        <li>💻 Skilled in Python, SQL, and Data Science.</li>
+      </ul>
+    </td>
+    <td width="55%" valign="top" align="center">
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/itsdakshjain?theme=dracula&rank=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<!--   commenting if not like in future can change
+
 ## 🤵 About Me:
 - 🎓 **B.Tech Student** and Data Science enthusiast.
 - 🚀 Exploring End-to-End Machine Learning and Data Analysis.
 - 🛠️ Currently working at the **Infosys Springboard** Intersnhip.
 - 💻 Skilled in Python, SQL, and various Data Science libraries.
+
 ## 📈 GitHub Stats
 
 [![Daksh Jain's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/itsdakshjain?theme=dracula&rank=true)](https://github.com/itsdakshjain)
 
+closing comment-->
+
 ## 📊 Activity Graph 
 
 [![Daksh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsdakshjain&theme=dracula&area=true&hide_border=true)](https://github.com/itsdakshjain)
+
+<!--   commenting tokyonight theme if not like in future can change 
 
 ## 📈 GitHub Stats
 
@@ -33,6 +59,8 @@
 ## 📊 Activity Graph 
 
 [![Daksh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsdakshjain&theme=tokyo-night&area=true&hide_border=true)](https://github.com/itsdakshjain)
+
+closing comment-->
 
 ## 🚀 Projects
 
