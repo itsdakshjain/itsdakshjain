@@ -1,3 +1,5 @@
+<!-- moving text , can change colors and lines written -->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=70a5fd&center=true&vCenter=true&width=550&lines=Hi,+I'm+Daksh+Jain!+👋;Aspiring+Data+Scientist;ML+Intern+@+Infosys;B.Tech+Pre-final+Year" alt="Typing SVG" />
   
@@ -7,6 +9,8 @@
     <a href="https://github.com/itsdakshjain"><b>🐙 GitHub</b></a>
   </p>
 </div>
+
+<!-- about me and github stats togther   -->
 
 <table border="0" align="center"">
   <tr>
@@ -26,12 +30,16 @@
 </table>
 
 
+<!-- snake eating game  -->
+
 <div align="center">
   <img src="https://github.com/itsdakshjain/itsdakshjain/blob/output/github-snake-dark_3.svg" alt="Snake Animation" />
 </div>
 
 
 ## 📊 Activity Graph 
+
+<!-- tokyo night theme and by default 30 days, &days= can change do max 90 days -->
 
 [![Daksh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsdakshjain&theme=tokyo-night&area=true&hide_border=true)](https://github.com/itsdakshjain)
 
@@ -57,3 +65,9 @@
 <img src="https://github.com/user-attachments/assets/4520083e-4d2b-47c3-8f2b-f2799f0a57e8" alt="Image 3" width="100" />
 <img src="https://github.com/user-attachments/assets/ed71eacc-6cb5-406f-a75b-4907265add3d" alt="Image 3" width="100" />
 <img src="https://github.com/user-attachments/assets/685c5457-4ecf-4c37-acf4-fcbb3adaa48e" alt="Image 3" width="100" />
+
+<!-- profile views -->
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsdakshjain&color=blueviolet" />
+</div
