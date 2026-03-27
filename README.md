@@ -8,7 +8,7 @@
   </p>
 </div>
 
-<table border="0" width="100%">
+<table border="0" align="center"">
   <tr>
     <td width="45%" valign="top">
       <h2>🤵 About Me:</h2>
@@ -24,6 +24,12 @@
     </td>
   </tr>
 </table>
+
+
+<div align="center">
+  <img src="https://github.com/itsdakshjain/itsdakshjain/blob/output/github-snake-dark_3.svg" alt="Snake Animation" />
+</div>
+
 
 ## 📊 Activity Graph 
 
