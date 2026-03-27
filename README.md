@@ -1,23 +1,14 @@
- <!-- 
-# 👨‍💻 Daksh Jain | Data Science & ML
- -->
- 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=f75c7e&center=true&vCenter=true&width=550&lines=Hi,+I'm+Daksh+Jain!+👋;Aspiring+Data+Scientist;ML+Intern+@+Infosys;B.Tech+Pre-final+Year" alt="Typing SVG" />
-  
- <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /> 
- -->
-
-  <p>
-    <a href="https://itsdakshjain.github.io/Portfolio-Website/"><b>🌐 Portfolio</b></a> • 
-    <a href="https://www.linkedin.com/in/itsdakshjain/"><b>👔 LinkedIn</b></a> • 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=70a5fd&center=true&vCenter=true&width=550&lines=Hi,+I'm+Daksh+Jain!+👋;Aspiring+Data+Scientist;ML+Intern+@+Infosys;B.Tech+Pre-final+Year" alt="Typing SVG" />
+  
+ <p>
+    <a href="https://itsdakshjain.github.io/Portfolio-Website/"><b>🌐 Portfolio</b></a> • 
+    <a href="https://www.linkedin.com/in/itsdakshjain/"><b>👔 LinkedIn</b></a> • 
     <a href="https://github.com/itsdakshjain"><b>🐙 GitHub</b></a>
   </p>
 </div>
 
-
-
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="45%" valign="top">
       <h2>🤵 About Me:</h2>
@@ -28,41 +19,15 @@
         <li>💻 Skilled in Python, SQL, and Data Science.</li>
       </ul>
     </td>
-    <td width="55%" valign="top" align="center">
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/itsdakshjain?theme=dracula&rank=true" width="100%" />
+    <td width="55%" valign="top" align="right">
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/itsdakshjain?theme=tokyonight&rank=true" width="100%" />
     </td>
   </tr>
 </table>
 
-<!--   commenting if not like in future can change
-
-## 🤵 About Me:
-- 🎓 **B.Tech Student** and Data Science enthusiast.
-- 🚀 Exploring End-to-End Machine Learning and Data Analysis.
-- 🛠️ Currently working at the **Infosys Springboard** Intersnhip.
-- 💻 Skilled in Python, SQL, and various Data Science libraries.
-
-## 📈 GitHub Stats
-
-[![Daksh Jain's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/itsdakshjain?theme=dracula&rank=true)](https://github.com/itsdakshjain)
-
-closing comment-->
-
-## 📊 Activity Graph 
-
-[![Daksh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsdakshjain&theme=dracula&area=true&hide_border=true)](https://github.com/itsdakshjain)
-
-<!--   commenting tokyonight theme if not like in future can change 
-
-## 📈 GitHub Stats
-
-[![Daksh Jain's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/itsdakshjain?theme=tokyonight&rank=true)](https://github.com/itsdakshjain)
-
-## 📊 Activity Graph 
+## 📊 Activity Graph 
 
 [![Daksh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsdakshjain&theme=tokyo-night&area=true&hide_border=true)](https://github.com/itsdakshjain)
-
-closing comment-->
 
 ## 🚀 Projects
 
@@ -86,6 +51,3 @@ closing comment-->
 <img src="https://github.com/user-attachments/assets/4520083e-4d2b-47c3-8f2b-f2799f0a57e8" alt="Image 3" width="100" />
 <img src="https://github.com/user-attachments/assets/ed71eacc-6cb5-406f-a75b-4907265add3d" alt="Image 3" width="100" />
 <img src="https://github.com/user-attachments/assets/685c5457-4ecf-4c37-acf4-fcbb3adaa48e" alt="Image 3" width="100" />
-
-
-
