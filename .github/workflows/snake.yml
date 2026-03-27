@@ -71,6 +71,9 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake-dark_2.svg?palette=github-dark&color_snake=#70a5fd
             dist/github-snake-dark_3.svg?color_snake=#70a5fd&color_dots=#161b22,#214d81,#3970b1,#588ed7,#70a5fd
+
+            dist/github-snake-dark_4_pink_green.svg?palette=github-dark&color_snake=#f75c7e
+            dist/github-snake-dark_5_pink_pink.svg?color_snake=#f75c7e&color_dots=#161b22,#4a2532,#7c354c,#b54563,#f75c7e
             
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
