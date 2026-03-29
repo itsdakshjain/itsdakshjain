@@ -69,5 +69,5 @@
 <!-- profile views -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsdakshjain&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=itsdakshjain&color=70a5fd" />
 </div
